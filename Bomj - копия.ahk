@@ -1,1 +1,1 @@
-https://ymer.ru/doh/version.txt
+1.1.1.1
